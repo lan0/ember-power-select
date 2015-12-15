@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/cibernox/ember-power-select.svg?branch=master)](https://travis-ci.org/cibernox/ember-power-select)
+[![Codeship Status](https://www.codeship.io/projects/d54a02c0-8571-0133-9e2e-269259d9f46d/status?branch=master)](https://www.codeship.io/projects/122303)
 [![Ember Observer Score](http://emberobserver.com/badges/ember-power-select.svg)](http://emberobserver.com/addons/ember-power-select)
 [![Code Climate](https://codeclimate.com/github/cibernox/ember-power-select/badges/gpa.svg)](https://codeclimate.com/github/cibernox/ember-power-select)
 [![npm version](https://badge.fury.io/js/ember-power-select.svg)](https://badge.fury.io/js/ember-power-select)
